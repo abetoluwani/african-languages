@@ -15,3 +15,4 @@ Glottolog data is licensed under a Creative Commons Attribution 4.0 Internationa
 ## Usage
 
 This dataset can be pushed to GitHub to host your own African Languages dataset.
+# african-languages
