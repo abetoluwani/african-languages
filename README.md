@@ -21,12 +21,27 @@ Base URL: `https://abetoluwani.github.io/african-languages/api/v1`
 - **GET `/country/{country_code}.json`**: Returns an array of all languages spoken in a specific country. (Example: `/country/ng.json` for Nigeria).
 - **GET `/language/{glottocode}.json`**: Returns the details for a single specific language. (Example: `/language/aari1239.json`).
 
-### Example (JavaScript)
+### Examples (JavaScript)
+
+**1. Fetch all African languages (The entire dataset at once)**
 ```javascript
-// Fetch all languages spoken in Nigeria (country code: ng)
+fetch("https://abetoluwani.github.io/african-languages/api/v1/languages.json")
+  .then(res => res.json())
+  .then(data => console.log(`Loaded ${data.length} languages!`));
+```
+
+**2. Fetch all languages spoken in a specific country (e.g., Nigeria)**
+```javascript
 fetch("https://abetoluwani.github.io/african-languages/api/v1/country/ng.json")
   .then(res => res.json())
   .then(data => console.log(data));
+```
+
+**3. Fetch details for a single specific language (e.g., Aari)**
+```javascript
+fetch("https://abetoluwani.github.io/african-languages/api/v1/language/aari1239.json")
+  .then(res => res.json())
+  .then(data => console.log(data.name));
 ```
 
 ## Original Data Source
