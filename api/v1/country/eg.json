@@ -1,0 +1,92 @@
+[
+  {
+    "glottocode": "copt1239",
+    "name": "Coptic",
+    "isocodes": "cop",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.472,
+    "longitude": 31.2053,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "egyp1246",
+    "name": "Egyptian (Ancient)",
+    "isocodes": "egy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 28.381735,
+    "longitude": 30.834959,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "egyp1253",
+    "name": "Egyptian Arabic",
+    "isocodes": "arz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 31.0,
+    "longitude": 31.0,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "egyp1238",
+    "name": "Egypt Sign Language",
+    "isocodes": "esl",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.567,
+    "longitude": 29.654,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "kenu1243",
+    "name": "Kenuzi",
+    "isocodes": "xnz",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 24.09,
+    "longitude": 32.9,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "kenu1236",
+    "name": "Kenuzi-Dongola",
+    "isocodes": "kzh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 21.2837,
+    "longitude": 31.8992,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "nobi1240",
+    "name": "Nobiin",
+    "isocodes": "fia",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 22.8142,
+    "longitude": 31.8376,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "said1239",
+    "name": "Saidi Arabic",
+    "isocodes": "aec",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 25.4132,
+    "longitude": 30.5302,
+    "country_code": "eg"
+  },
+  {
+    "glottocode": "siwi1239",
+    "name": "Siwi",
+    "isocodes": "siz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.200415,
+    "longitude": 25.519627,
+    "country_code": "eg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "glottocode": "bili1260",
+    "name": "Bilin",
+    "isocodes": "byn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.7833,
+    "longitude": 38.3917,
+    "country_code": "er"
+  },
+  {
+    "glottocode": "daha1247",
+    "name": "Dahalik",
+    "isocodes": "dlk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.732898,
+    "longitude": 40.081897,
+    "country_code": "er"
+  },
+  {
+    "glottocode": "kuna1268",
+    "name": "Kunama",
+    "isocodes": "kun",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.5879,
+    "longitude": 37.5292,
+    "country_code": "er"
+  },
+  {
+    "glottocode": "nara1262",
+    "name": "Nara",
+    "isocodes": "nrb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.3251,
+    "longitude": 37.499,
+    "country_code": "er"
+  },
+  {
+    "glottocode": "saho1246",
+    "name": "Saho",
+    "isocodes": "ssy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.75,
+    "longitude": 39.75,
+    "country_code": "er"
+  },
+  {
+    "glottocode": "tigr1271",
+    "name": "Tigrinya",
+    "isocodes": "tir",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.3359,
+    "longitude": 38.9266,
+    "country_code": "er"
+  }
+]

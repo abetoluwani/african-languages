@@ -1,0 +1,192 @@
+[
+  {
+    "glottocode": "band1352",
+    "name": "Bandi",
+    "isocodes": "bza",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.207,
+    "longitude": -10.1886,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "nucl1418",
+    "name": "Bassa",
+    "isocodes": "bsq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.27501,
+    "longitude": -11.543,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "bomm1240",
+    "name": "Bom",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 9.27518,
+    "longitude": -11.597,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "bomk1234",
+    "name": "Bom-Kim",
+    "isocodes": "bmf",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.27518,
+    "longitude": -11.59696,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "bull1247",
+    "name": "Bullom So",
+    "isocodes": "buy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.0,
+    "longitude": -13.16,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "east2387",
+    "name": "East Limba",
+    "isocodes": "lma",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.71107,
+    "longitude": -11.7496,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "kono1268",
+    "name": "Kono (Sierra Leone)",
+    "isocodes": "kno",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.67039,
+    "longitude": -10.9214,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "krim1238",
+    "name": "Krim",
+    "isocodes": "krm",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 7.24116,
+    "longitude": -11.8393,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "kura1250",
+    "name": "Kuranko",
+    "isocodes": "knk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.49325,
+    "longitude": -10.6122,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "lele1266",
+    "name": "Lele (Guinea)",
+    "isocodes": "llc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.98043,
+    "longitude": -10.371,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "loko1255",
+    "name": "Loko",
+    "isocodes": "lok",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.11838,
+    "longitude": -12.1583,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "mend1266",
+    "name": "Mende (Sierra Leone)",
+    "isocodes": "men",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.90935,
+    "longitude": -10.9926,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "sher1258",
+    "name": "Sherbro",
+    "isocodes": "bun",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.77585,
+    "longitude": -12.7405,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "sier1246",
+    "name": "Sierra Leone Sign Language",
+    "isocodes": "sgx",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.483,
+    "longitude": -13.235,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "sout2778",
+    "name": "Southern Kisi",
+    "isocodes": "kss",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.32448,
+    "longitude": -10.3377,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "timn1235",
+    "name": "Timne",
+    "isocodes": "tem",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.90294,
+    "longitude": -12.3331,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "vaii1241",
+    "name": "Vai",
+    "isocodes": "vai",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.05085,
+    "longitude": -11.3262,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "west2450",
+    "name": "West-Central Limba",
+    "isocodes": "lia",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.52392,
+    "longitude": -12.3138,
+    "country_code": "sl"
+  },
+  {
+    "glottocode": "yalu1240",
+    "name": "Yalunka",
+    "isocodes": "yal",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 9.97186,
+    "longitude": -11.2836,
+    "country_code": "sl"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "glottocode": "barw1243",
+    "name": "Barwe",
+    "isocodes": "bwg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.675,
+    "longitude": 33.4534,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "dema1235",
+    "name": "Dema",
+    "isocodes": "dmx",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -15.73939,
+    "longitude": 32.32783,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "many1258",
+    "name": "Manyika",
+    "isocodes": "mxc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.1927,
+    "longitude": 32.8052,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "ndau1241",
+    "name": "Ndau",
+    "isocodes": "ndc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -20.1239,
+    "longitude": 33.1739,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "shon1251",
+    "name": "Shona",
+    "isocodes": "sna",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.20849,
+    "longitude": 29.75725,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "tawa1270",
+    "name": "Tawara",
+    "isocodes": "twl",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.0167,
+    "longitude": 31.621,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "domb1246",
+    "name": "Toka-Leya-Dombe",
+    "isocodes": "dov",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.37,
+    "longitude": 26.502,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "vend1245",
+    "name": "Venda",
+    "isocodes": "ven",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -22.188,
+    "longitude": 29.9523,
+    "country_code": "zw"
+  },
+  {
+    "glottocode": "zimb1247",
+    "name": "Zimbabwe Sign Language",
+    "isocodes": "zib",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.9128,
+    "longitude": 31.0216,
+    "country_code": "zw"
+  }
+]

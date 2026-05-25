@@ -1,0 +1,102 @@
+[
+  {
+    "glottocode": "beni1249",
+    "name": "Beni Iznassen",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 34.9167,
+    "longitude": -2.3167,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "cent2194",
+    "name": "Central Moroccan Berber",
+    "isocodes": "tzm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 32.7415,
+    "longitude": -2.40872,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "ghom1257",
+    "name": "Ghomara",
+    "isocodes": "gho",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 34.7979,
+    "longitude": -4.6696,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "jude1262",
+    "name": "Judeo-Berber",
+    "isocodes": "jbe",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 30.9,
+    "longitude": -7.95,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "jude1265",
+    "name": "Judeo-Moroccan Arabic",
+    "isocodes": "aju",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 33.5,
+    "longitude": -7.5,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "moro1292",
+    "name": "Moroccan Arabic",
+    "isocodes": "ary",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 32.5,
+    "longitude": -7.5,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "moro1242",
+    "name": "Moroccan Sign Language",
+    "isocodes": "xms",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 32.139,
+    "longitude": -7.69607,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "senh1238",
+    "name": "Senhaja De Srair",
+    "isocodes": "sjs",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 34.9992,
+    "longitude": -4.51293,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "tach1250",
+    "name": "Tachelhit",
+    "isocodes": "shi",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.7854,
+    "longitude": -7.77879,
+    "country_code": "ma"
+  },
+  {
+    "glottocode": "tari1263",
+    "name": "Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber",
+    "isocodes": "rif",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 34.916974,
+    "longitude": -3.430616,
+    "country_code": "ma"
+  }
+]

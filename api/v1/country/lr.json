@@ -1,0 +1,232 @@
+[
+  {
+    "glottocode": "barc1235",
+    "name": "Barclayville Grebo",
+    "isocodes": "gry",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 4.67843,
+    "longitude": -8.09378,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "cent2041",
+    "name": "Central Grebo",
+    "isocodes": "grv",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 4.88038,
+    "longitude": -7.88667,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "daho1238",
+    "name": "Daho-Doo",
+    "isocodes": "das",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.72458,
+    "longitude": -7.3558,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "dewo1238",
+    "name": "Dewoin",
+    "isocodes": "dee",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 6.56113,
+    "longitude": -10.9076,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "gbii1242",
+    "name": "Gbii",
+    "isocodes": "ggb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.87021,
+    "longitude": -8.9346,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "gbol1235",
+    "name": "Gboloo Grebo",
+    "isocodes": "gec",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 4.75405,
+    "longitude": -7.66699,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "glar1241",
+    "name": "Glaro-Twabo",
+    "isocodes": "glr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.23264,
+    "longitude": -7.50317,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "glio1241",
+    "name": "Glio-Oubi",
+    "isocodes": "oub",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.39966,
+    "longitude": -7.50585,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "gola1255",
+    "name": "Gola",
+    "isocodes": "gol",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.06193,
+    "longitude": -10.8138,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "klao1243",
+    "name": "Klao",
+    "isocodes": "klu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.05,
+    "longitude": -8.85,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "east2414",
+    "name": "Konobo-Eastern Krahn",
+    "isocodes": "kqo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.83555,
+    "longitude": -7.85454,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "libe1240",
+    "name": "Kru Pidgin English",
+    "isocodes": "lir",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 6.423,
+    "longitude": -10.5284,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "kuwa1247",
+    "name": "Kuwaa",
+    "isocodes": "blh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.54885,
+    "longitude": -9.9765,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "libe1247",
+    "name": "Liberia Kpelle",
+    "isocodes": "xpe",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 6.92048,
+    "longitude": -9.96128,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "loma1260",
+    "name": "Loma (Liberia)",
+    "isocodes": "lom",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.91585,
+    "longitude": -9.69906,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "mann1248",
+    "name": "Mann",
+    "isocodes": "mev",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 7.04616,
+    "longitude": -8.86405,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "nort2810",
+    "name": "Northern Grebo",
+    "isocodes": "gbo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.17103,
+    "longitude": -8.1409,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "sapo1251",
+    "name": "Sapo",
+    "isocodes": "krn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.69555,
+    "longitude": -8.49229,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "sout2826",
+    "name": "Southern Grebo",
+    "isocodes": "grj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 4.47607,
+    "longitude": -7.56872,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "taju1238",
+    "name": "Tajuasohn",
+    "isocodes": "tja",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.50685,
+    "longitude": -8.98904,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "tepo1239",
+    "name": "Tepo Krumen",
+    "isocodes": "ted",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.16267,
+    "longitude": -7.66346,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "west2488",
+    "name": "Western Krahn",
+    "isocodes": "krw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 6.14415,
+    "longitude": -8.40954,
+    "country_code": "lr"
+  },
+  {
+    "glottocode": "zial1235",
+    "name": "Zialo",
+    "isocodes": "zil",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 8.667,
+    "longitude": -9.805,
+    "country_code": "lr"
+  }
+]

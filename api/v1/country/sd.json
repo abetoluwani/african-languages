@@ -1,0 +1,732 @@
+[
+  {
+    "glottocode": "ache1245",
+    "name": "Acheron",
+    "isocodes": "acz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.8827,
+    "longitude": 30.3187,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "afit1238",
+    "name": "Afitti",
+    "isocodes": "aft",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.446,
+    "longitude": 30.7611,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "akaa1242",
+    "name": "Aka",
+    "isocodes": "soh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.2101,
+    "longitude": 33.6524,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "amas1236",
+    "name": "Ama (Sudan)",
+    "isocodes": "nyi",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.0993,
+    "longitude": 29.4332,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "amir1234",
+    "name": "Amira",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.0546,
+    "longitude": 30.71992,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "assa1269",
+    "name": "Assangori",
+    "isocodes": "sjg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.9592,
+    "longitude": 22.6393,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "bayg1239",
+    "name": "Baygo",
+    "isocodes": "byg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.13,
+    "longitude": 25.22,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "beja1238",
+    "name": "Beja",
+    "isocodes": "bej",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 17.2436,
+    "longitude": 36.6666,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "bert1248",
+    "name": "Berta",
+    "isocodes": "wti",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.6474,
+    "longitude": 34.7042,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "bert1249",
+    "name": "Berti",
+    "isocodes": "byt",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.67,
+    "longitude": 25.83,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "birk1242",
+    "name": "Birked",
+    "isocodes": "brk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.5,
+    "longitude": 24.83,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "daat1234",
+    "name": "Daats'iin",
+    "isocodes": "dtn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.5284,
+    "longitude": 35.2226,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "dagi1241",
+    "name": "Dagik",
+    "isocodes": "dec",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.583,
+    "longitude": 29.9404,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "dair1239",
+    "name": "Dair",
+    "isocodes": "drb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.474,
+    "longitude": 30.6782,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "darf1239",
+    "name": "Dar Fur Daju",
+    "isocodes": "daj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.2598,
+    "longitude": 25.3127,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "dill1242",
+    "name": "Dilling",
+    "isocodes": "dil",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.0347,
+    "longitude": 29.6056,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "dong1288",
+    "name": "Dongola",
+    "isocodes": "dgl",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 18.25,
+    "longitude": 30.75,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "heib1243",
+    "name": "Ebang",
+    "isocodes": "hbn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.2908,
+    "longitude": 30.5282,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "elhu1238",
+    "name": "El Hugeirat",
+    "isocodes": "elh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.948,
+    "longitude": 28.5901,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "fada1248",
+    "name": "Fadashi",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 10.84949,
+    "longitude": 34.82031,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "furr1244",
+    "name": "Fur",
+    "isocodes": "fvr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.0455,
+    "longitude": 23.6401,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "gaam1241",
+    "name": "Gaam",
+    "isocodes": "tbi",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.4674,
+    "longitude": 33.9797,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "gule1241",
+    "name": "Gule",
+    "isocodes": "gly",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.8336,
+    "longitude": 33.6929,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "hara1258",
+    "name": "Haraza",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.083,
+    "longitude": 30.417,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "julu1237",
+    "name": "Julud",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.528258,
+    "longitude": 29.552753,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "jumj1238",
+    "name": "Jumjum",
+    "isocodes": "jum",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.4349,
+    "longitude": 33.7494,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kada1282",
+    "name": "Kadaru",
+    "isocodes": "kdu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.1554,
+    "longitude": 30.2709,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kamd1238",
+    "name": "Kamda",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 11.39119,
+    "longitude": 29.11903,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kang1288",
+    "name": "Kanga",
+    "isocodes": "kcp",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.0174,
+    "longitude": 29.3463,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kark1256",
+    "name": "Karko",
+    "isocodes": "kko",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.0542,
+    "longitude": 29.2074,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "katc1249",
+    "name": "Katcha-Kadugli-Miri",
+    "isocodes": "xtc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.8423,
+    "longitude": 29.4914,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "katl1237",
+    "name": "Katla",
+    "isocodes": "kcr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.80325,
+    "longitude": 29.28254,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "keig1242",
+    "name": "Keiga",
+    "isocodes": "kec",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.2064,
+    "longitude": 29.3889,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kelo1246",
+    "name": "Kelo",
+    "isocodes": "xel",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.9291,
+    "longitude": 34.3816,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kooo1244",
+    "name": "Ko",
+    "isocodes": "fuj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.7321,
+    "longitude": 31.5399,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "koal1240",
+    "name": "Koalib-Rere",
+    "isocodes": "kib",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.69648,
+    "longitude": 30.47166,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "kron1241",
+    "name": "Krongo",
+    "isocodes": "kgo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.514,
+    "longitude": 30.003,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "lafo1243",
+    "name": "Lafofa",
+    "isocodes": "laf",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.3357,
+    "longitude": 30.7331,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "laro1243",
+    "name": "Laru (North Sudan)",
+    "isocodes": "lro",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.3915,
+    "longitude": 30.3824,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "logo1262",
+    "name": "Logol",
+    "isocodes": "lof",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.98053,
+    "longitude": 31.12359,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "logo1261",
+    "name": "Logorik",
+    "isocodes": "liu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.1739,
+    "longitude": 29.8053,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "lumu1239",
+    "name": "Lumun",
+    "isocodes": "lmd",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.8308,
+    "longitude": 30.253,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "lute1234",
+    "name": "Lute",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.42708,
+    "longitude": 30.10006,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "mero1237",
+    "name": "Meroitic",
+    "isocodes": "xmr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.9333,
+    "longitude": 33.7333,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "mido1240",
+    "name": "Midob",
+    "isocodes": "mei",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.789,
+    "longitude": 27.2236,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "miis1236",
+    "name": "Miisiirii",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.16,
+    "longitude": 22.69,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "molo1257",
+    "name": "Molo",
+    "isocodes": "zmo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.793,
+    "longitude": 33.5677,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "moro1285",
+    "name": "Moro",
+    "isocodes": "mor",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.9194,
+    "longitude": 30.2138,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "ndin1245",
+    "name": "Nding",
+    "isocodes": "eli",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.2741,
+    "longitude": 30.7306,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "ngil1242",
+    "name": "Ngile",
+    "isocodes": "jle",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.7194,
+    "longitude": 29.997,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "buru1301",
+    "name": "Northern Burun",
+    "isocodes": "bdi",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.725,
+    "longitude": 33.921,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "oldn1245",
+    "name": "Old Nubian",
+    "isocodes": "onw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 18.760713,
+    "longitude": 31.748657,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "otor1240",
+    "name": "Otoro",
+    "isocodes": "otr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.1187,
+    "longitude": 30.573,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "shat1244",
+    "name": "Shatt",
+    "isocodes": "shj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.8525,
+    "longitude": 29.7687,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "shwa1239",
+    "name": "Shwai",
+    "isocodes": "shw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.2708,
+    "longitude": 30.3533,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "suda1236",
+    "name": "Sudanese Arabic",
+    "isocodes": "apd",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 17.8021,
+    "longitude": 33.3179,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tago1246",
+    "name": "Tagoi",
+    "isocodes": "tag",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.0346,
+    "longitude": 30.9306,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "talo1250",
+    "name": "Tasomi-Tata",
+    "isocodes": "tlo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.6453,
+    "longitude": 30.4815,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tega1236",
+    "name": "Tegali",
+    "isocodes": "ras",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.9523,
+    "longitude": 31.1112,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "nucl1339",
+    "name": "Temein",
+    "isocodes": "teq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.8275,
+    "longitude": 29.3898,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tese1238",
+    "name": "Tese",
+    "isocodes": "keg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.3885,
+    "longitude": 29.5803,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tigr1270",
+    "name": "Tigre",
+    "isocodes": "tig",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 17.3494,
+    "longitude": 38.2233,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tima1241",
+    "name": "Tima",
+    "isocodes": "tms",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.7176,
+    "longitude": 29.1632,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "ting1253",
+    "name": "Tingal",
+    "isocodes": "tie",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.1797,
+    "longitude": 31.1244,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tira1254",
+    "name": "Tira",
+    "isocodes": "tic",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.0963,
+    "longitude": 30.8092,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "toch1257",
+    "name": "Tocho",
+    "isocodes": "taz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.8828,
+    "longitude": 30.1567,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "toro1251",
+    "name": "Torona",
+    "isocodes": "tqr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.1254,
+    "longitude": 30.341,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tuli1249",
+    "name": "Tulishi",
+    "isocodes": "tey",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.4507,
+    "longitude": 29.108,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "tumt1243",
+    "name": "Tumtum",
+    "isocodes": "tbr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.6378,
+    "longitude": 30.4128,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "ghul1238",
+    "name": "Uncunwee",
+    "isocodes": "ghl",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.6432,
+    "longitude": 29.8122,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "wali1262",
+    "name": "Wali (Sudan)",
+    "isocodes": "wll",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.8634,
+    "longitude": 29.1228,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "warn1244",
+    "name": "Warnang",
+    "isocodes": "wrn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.594,
+    "longitude": 31.1574,
+    "country_code": "sd"
+  },
+  {
+    "glottocode": "weyt1237",
+    "name": "Weyto",
+    "isocodes": "woy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.94153,
+    "longitude": 35.63369,
+    "country_code": "sd"
+  }
+]

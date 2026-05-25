@@ -1,0 +1,202 @@
+[
+  {
+    "glottocode": "chop1243",
+    "name": "Chopi",
+    "isocodes": "cce",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -24.8327,
+    "longitude": 34.1097,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "chuw1238",
+    "name": "Chuwabu",
+    "isocodes": "chw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.3428,
+    "longitude": 37.1231,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "gito1238",
+    "name": "Gitonga",
+    "isocodes": "toh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -23.7964,
+    "longitude": 35.1577,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "koti1238",
+    "name": "Koti",
+    "isocodes": "eko",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.4823,
+    "longitude": 39.7602,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "main1272",
+    "name": "Maindo",
+    "isocodes": "cwb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.3143,
+    "longitude": 36.5941,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "makh1264",
+    "name": "Makhuwa",
+    "isocodes": "vmw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -14.8509,
+    "longitude": 38.8052,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "makh1262",
+    "name": "Makhuwa-Marrevone",
+    "isocodes": "xmc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.9394,
+    "longitude": 39.1203,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "makh1265",
+    "name": "Makhuwa-Moniga",
+    "isocodes": "mhm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.294,
+    "longitude": 38.093,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "makh1266",
+    "name": "Makhuwa-Saka",
+    "isocodes": "xsq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -13.6443,
+    "longitude": 39.5323,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "makh1260",
+    "name": "Makhuwa-Shirima",
+    "isocodes": "vmk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -14.251,
+    "longitude": 36.5249,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "moza1251",
+    "name": "Mozambican Ngoni",
+    "isocodes": "xnq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -12.923,
+    "longitude": 38.892,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "moza1235",
+    "name": "Mozambican Sign Language",
+    "isocodes": "mzy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.811,
+    "longitude": 34.613,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "lomw1241",
+    "name": "Mozambique Lomwe",
+    "isocodes": "ngl",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.0381,
+    "longitude": 37.2437,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "mwan1247",
+    "name": "Mwani",
+    "isocodes": "wmw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -12.5821,
+    "longitude": 40.4601,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "nath1238",
+    "name": "Nathembo",
+    "isocodes": "nte",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.0973,
+    "longitude": 39.9062,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "nyun1248",
+    "name": "Nyungwe",
+    "isocodes": "nyu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.4757,
+    "longitude": 33.0233,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "phim1238",
+    "name": "Phimbi",
+    "isocodes": "phm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -15.8364,
+    "longitude": 33.3514,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "nucl1396",
+    "name": "Sena",
+    "isocodes": "seh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.7933,
+    "longitude": 34.9829,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "tewe1238",
+    "name": "Tewe",
+    "isocodes": "twx",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.4459,
+    "longitude": 33.8246,
+    "country_code": "mz"
+  },
+  {
+    "glottocode": "yaoo1241",
+    "name": "Yao",
+    "isocodes": "yao",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -13.6119,
+    "longitude": 35.2387,
+    "country_code": "mz"
+  }
+]

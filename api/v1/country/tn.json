@@ -1,0 +1,72 @@
+[
+  {
+    "glottocode": "douz1234",
+    "name": "Douz Sign Language",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 33.45,
+    "longitude": 9.01667,
+    "country_code": "tn"
+  },
+  {
+    "glottocode": "ling1242",
+    "name": "Mediterranean Lingua Franca",
+    "isocodes": "pml",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 33.8613,
+    "longitude": 10.8531,
+    "country_code": "tn"
+  },
+  {
+    "glottocode": "puni1241",
+    "name": "Punic",
+    "isocodes": "xpu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 36.527295,
+    "longitude": 10.356444,
+    "country_code": "tn"
+  },
+  {
+    "glottocode": "sene1271",
+    "name": "Sened",
+    "isocodes": "sds",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 34.4678,
+    "longitude": 9.43778,
+    "country_code": "tn"
+  },
+  {
+    "glottocode": "tuni1259",
+    "name": "Tunisian Arabic",
+    "isocodes": "aeb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 33.7966,
+    "longitude": 9.56156,
+    "country_code": "tn"
+  },
+  {
+    "glottocode": "tuni1249",
+    "name": "Tunisian Sign Language",
+    "isocodes": "tse",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 36.49562,
+    "longitude": 10.03348,
+    "country_code": "tn"
+  },
+  {
+    "glottocode": "tuni1262",
+    "name": "Tunisian-Zuwara Berber",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 32.863859,
+    "longitude": 11.299621,
+    "country_code": "tn"
+  }
+]

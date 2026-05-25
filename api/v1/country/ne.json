@@ -1,0 +1,112 @@
+[
+  {
+    "glottocode": "bilm1238",
+    "name": "Bilma-Mowar Kanuri",
+    "isocodes": "bms",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 19.1,
+    "longitude": 13.0665,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "cent2018",
+    "name": "Central-Eastern Niger Fulfulde",
+    "isocodes": "fuq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.0907,
+    "longitude": 8.43261,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "chad1249",
+    "name": "Chadian Arabic",
+    "isocodes": "shu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.67,
+    "longitude": 13.5,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "dend1243",
+    "name": "Dendi (Benin)",
+    "isocodes": "ddn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.6682,
+    "longitude": 3.49109,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "tagd1238",
+    "name": "Tagdal",
+    "isocodes": "tda",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.1908,
+    "longitude": 6.83992,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "tasa1240",
+    "name": "Tasawaq",
+    "isocodes": "twq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.7814,
+    "longitude": 6.92037,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "taya1257",
+    "name": "Tayart Tamajeq",
+    "isocodes": "thz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.9232,
+    "longitude": 7.6743,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "teda1241",
+    "name": "Tedaga",
+    "isocodes": "tuq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 18.0426,
+    "longitude": 14.7717,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "tets1235",
+    "name": "Tetserret",
+    "isocodes": "tez",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.973333,
+    "longitude": 5.699722,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "tuma1248",
+    "name": "Tumari Kanuri",
+    "isocodes": "krt",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.2584,
+    "longitude": 13.1571,
+    "country_code": "ne"
+  },
+  {
+    "glottocode": "zarm1239",
+    "name": "Zarma-Kaado",
+    "isocodes": "dje",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.8554,
+    "longitude": 2.41173,
+    "country_code": "ne"
+  }
+]

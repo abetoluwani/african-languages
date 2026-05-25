@@ -1,0 +1,102 @@
+[
+  {
+    "glottocode": "aram1260",
+    "name": "Arame-Gubaare",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.299274,
+    "longitude": -16.373202,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "bain1259",
+    "name": "Bainounk-Gujaher",
+    "isocodes": "bab",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.3128,
+    "longitude": -16.0586,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "bala1301",
+    "name": "Balanta-Kentohe",
+    "isocodes": "ble",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.8203,
+    "longitude": -15.3221,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "biaf1240",
+    "name": "Biafada",
+    "isocodes": "bif",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.467,
+    "longitude": -15.1347,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "guin1260",
+    "name": "Guinea-Bissau Sign Language",
+    "isocodes": "lgs",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.859297,
+    "longitude": -15.591553,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "kamo1256",
+    "name": "Kamona Bijogo",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.525,
+    "longitude": -16.29,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "bidy1244",
+    "name": "Kanyaki-Kagbaaga-Kajoko Bidyogo",
+    "isocodes": "bjg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.1097,
+    "longitude": -16.1497,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "mank1251",
+    "name": "Mankanya",
+    "isocodes": "knf",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.2615066667,
+    "longitude": -15.74389,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "nalu1240",
+    "name": "Nalu",
+    "isocodes": "naj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.0397,
+    "longitude": -14.8188,
+    "country_code": "gw"
+  },
+  {
+    "glottocode": "pape1239",
+    "name": "Papel",
+    "isocodes": "pbo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.8977,
+    "longitude": -15.8388,
+    "country_code": "gw"
+  }
+]

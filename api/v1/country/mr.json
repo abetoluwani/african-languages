@@ -1,0 +1,42 @@
+[
+  {
+    "glottocode": "hass1238",
+    "name": "Hassaniyya",
+    "isocodes": "mey",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 18.29,
+    "longitude": -14.11,
+    "country_code": "mr"
+  },
+  {
+    "glottocode": "imer1236",
+    "name": "Imeraguen",
+    "isocodes": "ime",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 18.37331,
+    "longitude": -16.34726,
+    "country_code": "mr"
+  },
+  {
+    "glottocode": "soni1259",
+    "name": "Soninke",
+    "isocodes": "snk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.7596,
+    "longitude": -12.1408,
+    "country_code": "mr"
+  },
+  {
+    "glottocode": "zena1248",
+    "name": "Zenaga",
+    "isocodes": "zen",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.82,
+    "longitude": -16.1711,
+    "country_code": "mr"
+  }
+]

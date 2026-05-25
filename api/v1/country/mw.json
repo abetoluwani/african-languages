@@ -1,0 +1,102 @@
+[
+  {
+    "glottocode": "koko1267",
+    "name": "Kokola",
+    "isocodes": "kzn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.2681,
+    "longitude": 35.5767,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "lolo1261",
+    "name": "Lolo",
+    "isocodes": "llb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.0232,
+    "longitude": 35.9451,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "mala1256",
+    "name": "Malawi Lomwe",
+    "isocodes": "lon",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -15.56729,
+    "longitude": 35.43347,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "mala1475",
+    "name": "Malawi Sena",
+    "isocodes": "swk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.6183,
+    "longitude": 34.991,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "many1259",
+    "name": "Manyawa",
+    "isocodes": "mny",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.4963,
+    "longitude": 36.8459,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "mare1260",
+    "name": "Marenje",
+    "isocodes": "vmr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.2129,
+    "longitude": 35.7425,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "ndal1241",
+    "name": "Ndali",
+    "isocodes": "ndh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -9.88948,
+    "longitude": 33.6118,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "nyik1246",
+    "name": "Nyika (Malawi and Zambia)",
+    "isocodes": "nkv",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -10.0231,
+    "longitude": 33.481,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "takw1238",
+    "name": "Takwane",
+    "isocodes": "tke",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -16.2276,
+    "longitude": 36.249,
+    "country_code": "mw"
+  },
+  {
+    "glottocode": "tong1321",
+    "name": "Tonga (Nyasa)",
+    "isocodes": "tog",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -12.0816,
+    "longitude": 34.0613,
+    "country_code": "mw"
+  }
+]

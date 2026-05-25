@@ -1,0 +1,62 @@
+[
+  {
+    "glottocode": "awji1241",
+    "name": "Awjilah",
+    "isocodes": "auj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.2341,
+    "longitude": 21.1819,
+    "country_code": "ly"
+  },
+  {
+    "glottocode": "ghad1239",
+    "name": "Ghadames",
+    "isocodes": "gha",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 30.1168,
+    "longitude": 10.0165,
+    "country_code": "ly"
+  },
+  {
+    "glottocode": "liby1235",
+    "name": "Libyan Sign Language",
+    "isocodes": "lbs",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.512,
+    "longitude": 17.573,
+    "country_code": "ly"
+  },
+  {
+    "glottocode": "nafu1238",
+    "name": "Nafusi",
+    "isocodes": "jbn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 31.93488,
+    "longitude": 11.78231,
+    "country_code": "ly"
+  },
+  {
+    "glottocode": "sawk1238",
+    "name": "Sawknah-Fogaha",
+    "isocodes": "swn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 29.16,
+    "longitude": 15.9742,
+    "country_code": "ly"
+  },
+  {
+    "glottocode": "taha1241",
+    "name": "Tahaggart Tamahaq",
+    "isocodes": "thv",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 22.5908,
+    "longitude": 8.73169,
+    "country_code": "ly"
+  }
+]

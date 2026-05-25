@@ -1,0 +1,62 @@
+[
+  {
+    "glottocode": "gamb1259",
+    "name": "Gambian Sign Language",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.453444,
+    "longitude": -16.580639,
+    "country_code": "gm"
+  },
+  {
+    "glottocode": "gamb1252",
+    "name": "Gambian Wolof",
+    "isocodes": "wof",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.5337,
+    "longitude": -16.1544,
+    "country_code": "gm"
+  },
+  {
+    "glottocode": "karo1294",
+    "name": "Karon",
+    "isocodes": "krx",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.9918,
+    "longitude": -16.7382,
+    "country_code": "gm"
+  },
+  {
+    "glottocode": "kobi1241",
+    "name": "Kobiana",
+    "isocodes": "kcj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.5269,
+    "longitude": -14.4527,
+    "country_code": "gm"
+  },
+  {
+    "glottocode": "nort3247",
+    "name": "Northeast Bainounk",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.213,
+    "longitude": -15.835,
+    "country_code": "gm"
+  },
+  {
+    "glottocode": "uppe1455",
+    "name": "Upper Guinea Crioulo",
+    "isocodes": "pov",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.2335066667,
+    "longitude": -15.33254,
+    "country_code": "gm"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "glottocode": "anta1255",
+    "name": "Antankarana Malagasy",
+    "isocodes": "xmv",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -13.2164,
+    "longitude": 49.2402,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "bara1369",
+    "name": "Bara Malagasy",
+    "isocodes": "bhr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -23.9716,
+    "longitude": 45.5937,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "mada1271",
+    "name": "Madagascar Sign Language",
+    "isocodes": "mzc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.04,
+    "longitude": 46.87,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "maha1309",
+    "name": "Mahafaly-Antanalana Malagasy",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -24.2,
+    "longitude": 44.5,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "masi1268",
+    "name": "Masikoro Malagasy",
+    "isocodes": "msh",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -22.5582,
+    "longitude": 43.8156,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "nort2890",
+    "name": "Northern Betsimisaraka Malagasy",
+    "isocodes": "bmm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.9184,
+    "longitude": 48.812,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "plat1254",
+    "name": "Plateau Malagasy",
+    "isocodes": "plt",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.5907,
+    "longitude": 47.1211,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "sout2920",
+    "name": "Southern Betsimisaraka Malagasy",
+    "isocodes": "bzc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -22.8,
+    "longitude": 47.82,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "sout3125",
+    "name": "Southern Betsimisaraka Malagasy (Retired)",
+    "isocodes": "bjq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -20.8687,
+    "longitude": 48.1108,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "tand1256",
+    "name": "Tandroy Malagasy",
+    "isocodes": "tdx",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -24.80155,
+    "longitude": 45.9,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "tano1246",
+    "name": "Tanosy Malagasy",
+    "isocodes": "txy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -24.9186,
+    "longitude": 47.1357,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "tesa1236",
+    "name": "Tesaka Malagasy",
+    "isocodes": "tkg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -23.3,
+    "longitude": 47.33,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "tsim1257",
+    "name": "Tsimihety Malagasy",
+    "isocodes": "xmw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -15.4294,
+    "longitude": 48.8102,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "vezo1235",
+    "name": "Vezo",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": -23.34,
+    "longitude": 43.67,
+    "country_code": "mg"
+  },
+  {
+    "glottocode": "saka1291",
+    "name": "West Malagasy Sakalava",
+    "isocodes": "skg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -20.28,
+    "longitude": 44.32,
+    "country_code": "mg"
+  }
+]

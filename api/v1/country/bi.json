@@ -1,0 +1,62 @@
+[
+  {
+    "glottocode": "bemb1255",
+    "name": "Bembe",
+    "isocodes": "bmb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -4.49057,
+    "longitude": 29.0507,
+    "country_code": "bi"
+  },
+  {
+    "glottocode": "fuli1240",
+    "name": "Fuliiru",
+    "isocodes": "flr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -3.04022,
+    "longitude": 28.9865,
+    "country_code": "bi"
+  },
+  {
+    "glottocode": "kabw1242",
+    "name": "Kabwari",
+    "isocodes": "kcw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -4.36966,
+    "longitude": 29.1684,
+    "country_code": "bi"
+  },
+  {
+    "glottocode": "nyin1248",
+    "name": "Nyindu",
+    "isocodes": "nyg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -3.03802,
+    "longitude": 28.6434,
+    "country_code": "bi"
+  },
+  {
+    "glottocode": "rund1242",
+    "name": "Rundi",
+    "isocodes": "run",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -2.94,
+    "longitude": 29.97,
+    "country_code": "bi"
+  },
+  {
+    "glottocode": "rund1241",
+    "name": "Rundi-Kitwa",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -3.022268,
+    "longitude": 29.485248,
+    "country_code": "bi"
+  }
+]

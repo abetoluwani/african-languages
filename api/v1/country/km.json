@@ -1,0 +1,32 @@
+[
+  {
+    "glottocode": "mwal1237",
+    "name": "Mwali Comorian",
+    "isocodes": "wlc",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -12.3164,
+    "longitude": 43.741,
+    "country_code": "km"
+  },
+  {
+    "glottocode": "ndzw1235",
+    "name": "Ndzwani Comorian",
+    "isocodes": "wni",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -12.2123,
+    "longitude": 44.3709,
+    "country_code": "km"
+  },
+  {
+    "glottocode": "ngaz1238",
+    "name": "Ngazidja Comorian",
+    "isocodes": "zdj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -11.6129,
+    "longitude": 43.36,
+    "country_code": "km"
+  }
+]

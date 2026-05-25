@@ -1,0 +1,122 @@
+[
+  {
+    "glottocode": "awee1242",
+    "name": "Aweer",
+    "isocodes": "bob",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -1.40124,
+    "longitude": 41.234,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "boon1242",
+    "name": "Boon",
+    "isocodes": "bnl",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 0.41988,
+    "longitude": 43.1208,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "chim1312",
+    "name": "Chimwiini",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 1.111787,
+    "longitude": 44.026991,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "daba1260",
+    "name": "Dabarre",
+    "isocodes": "dbr",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 1.2179,
+    "longitude": 43.3304,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "garr1259",
+    "name": "Garre",
+    "isocodes": "gex",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 2.29633,
+    "longitude": 44.6862,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "giri1245",
+    "name": "Girirra",
+    "isocodes": "gii",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 5.76,
+    "longitude": 42.17,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "jiid1238",
+    "name": "Jiiddu",
+    "isocodes": "jii",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 1.84353,
+    "longitude": 44.1294,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "maay1238",
+    "name": "Maay",
+    "isocodes": "ymm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 3.22288,
+    "longitude": 43.6182,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "mush1238",
+    "name": "Mushungulu",
+    "isocodes": "xma",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 0.00689,
+    "longitude": 42.6626,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "mwin1241",
+    "name": "Mwini",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 0.93435,
+    "longitude": 43.56061,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "soma1255",
+    "name": "Somali",
+    "isocodes": "som",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 4.778704,
+    "longitude": 45.152856,
+    "country_code": "so"
+  },
+  {
+    "glottocode": "tunn1238",
+    "name": "Tunni",
+    "isocodes": "tqq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 1.06167,
+    "longitude": 43.6847,
+    "country_code": "so"
+  }
+]

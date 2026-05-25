@@ -1,0 +1,22 @@
+[
+  {
+    "glottocode": "kiny1244",
+    "name": "Kinyarwanda",
+    "isocodes": "kin",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -1.56771,
+    "longitude": 29.6441,
+    "country_code": "rw"
+  },
+  {
+    "glottocode": "rwan1246",
+    "name": "Rwandan Sign Language",
+    "isocodes": "rsn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -1.38553,
+    "longitude": 30.23427,
+    "country_code": "rw"
+  }
+]

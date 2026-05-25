@@ -1,0 +1,482 @@
+[
+  {
+    "glottocode": "ampa1238",
+    "name": "Ampari Dogon",
+    "isocodes": "aqd",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.15,
+    "longitude": -3.55,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "anat1248",
+    "name": "Ana Tinga Dogon",
+    "isocodes": "dti",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.6669,
+    "longitude": -3.1168,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bamb1269",
+    "name": "Bambara",
+    "isocodes": "bam",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.9,
+    "longitude": -7.65,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bang1363",
+    "name": "Bangime",
+    "isocodes": "dba",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.8116,
+    "longitude": -3.77092,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bank1258",
+    "name": "Bankagooma",
+    "isocodes": "bxw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.7497,
+    "longitude": -5.50744,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bank1259",
+    "name": "Bankan Tey Dogon",
+    "isocodes": "dbw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.06,
+    "longitude": -2.92,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bent1238",
+    "name": "Ben Tey Dogon",
+    "isocodes": "dbt",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.78,
+    "longitude": -2.94,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bolo1266",
+    "name": "Bolon",
+    "isocodes": "bof",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.8242,
+    "longitude": -4.75524,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bomu1247",
+    "name": "Bomu",
+    "isocodes": "bmq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.3816,
+    "longitude": -4.538,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "buno1241",
+    "name": "Bunoge Dogon",
+    "isocodes": "dgb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.43,
+    "longitude": -3.49,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "dogu1235",
+    "name": "Dogul Dom Dogon",
+    "isocodes": "dbg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.5872,
+    "longitude": -3.56855,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "donn1239",
+    "name": "Donno So Dogon",
+    "isocodes": "dds",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.34019,
+    "longitude": -3.51468,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "doue1234",
+    "name": "Douentza Sign Language",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.006344,
+    "longitude": -2.956465,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "duun1242",
+    "name": "Duungooma",
+    "isocodes": "dux",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 10.9234,
+    "longitude": -5.85872,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "hain1253",
+    "name": "Hainyaxo Bozo",
+    "isocodes": "bzx",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.8734,
+    "longitude": -5.65085,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "jams1239",
+    "name": "Jamsay Dogon",
+    "isocodes": "djm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.1794,
+    "longitude": -2.57999,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "jena1242",
+    "name": "Jenaama Bozo",
+    "isocodes": "bze",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.2533,
+    "longitude": -4.0194,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "kago1248",
+    "name": "Kagoro",
+    "isocodes": "xkg",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.0546,
+    "longitude": -9.96404,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "kala1383",
+    "name": "Kalamsé",
+    "isocodes": "knz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.6106,
+    "longitude": -3.10033,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "kita1249",
+    "name": "Kita Maninkakan",
+    "isocodes": "mwk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.1798,
+    "longitude": -9.49151,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "kolu1247",
+    "name": "Kolum So Dogon",
+    "isocodes": "dkl",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.3617,
+    "longitude": -3.8795,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "koyr1242",
+    "name": "Koyraboro Senni Songhai",
+    "isocodes": "ses",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.9634,
+    "longitude": -0.55187,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "koyr1240",
+    "name": "Koyra Chiini Songhay",
+    "isocodes": "khq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.192,
+    "longitude": -3.73962,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bama1249",
+    "name": "Langue de Signes Malienne",
+    "isocodes": "bog",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.651,
+    "longitude": -8.00136,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "mama1271",
+    "name": "Mamara Senoufo",
+    "isocodes": "myk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.4871,
+    "longitude": -5.28245,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "momb1254",
+    "name": "Mombo Dogon",
+    "isocodes": "dmb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.376155,
+    "longitude": -3.664799,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "bond1248",
+    "name": "Najamba-Kindige",
+    "isocodes": "dbu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.9066,
+    "longitude": -3.32636,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "nane1238",
+    "name": "Nanerigé Sénoufo",
+    "isocodes": "sen",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.7548,
+    "longitude": -4.92148,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "nang1261",
+    "name": "Nanga",
+    "isocodes": "nzz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.49,
+    "longitude": -3.02,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "nort2819",
+    "name": "Northern Bobo Madaré",
+    "isocodes": "bbo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 12.4182,
+    "longitude": -4.47538,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "pena1270",
+    "name": "Penange",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.38,
+    "longitude": -4.03,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "sici1249",
+    "name": "Sìcìté Sénoufo",
+    "isocodes": "sep",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.1789,
+    "longitude": -5.28932,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "supy1237",
+    "name": "Supyire Senoufo",
+    "isocodes": "spp",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 11.632,
+    "longitude": -5.87709,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "syen1235",
+    "name": "Syenara Senoufo",
+    "isocodes": "shz",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 10.5954,
+    "longitude": -5.8581,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tada1238",
+    "name": "Tadaksahak",
+    "isocodes": "dsq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 16.685,
+    "longitude": 2.32653,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tebu1240",
+    "name": "Tebul Sign Language",
+    "isocodes": "tsy",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.499995,
+    "longitude": -3.499957,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tebu1239",
+    "name": "Tebul Ure Dogon",
+    "isocodes": "dtu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.66,
+    "longitude": -3.1,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tene1248",
+    "name": "Tengou-Togo Dogon",
+    "isocodes": "dtk",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.0675,
+    "longitude": -3.37158,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tiem1235",
+    "name": "Tiemacèwè Bozo",
+    "isocodes": "boo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.47052,
+    "longitude": -4.25688,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tiey1235",
+    "name": "Tiéyaxo Bozo",
+    "isocodes": "boz",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.1223,
+    "longitude": -5.08609,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tira1258",
+    "name": "Tiranige Diga Dogon",
+    "isocodes": "tde",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.76,
+    "longitude": -3.7,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tomm1242",
+    "name": "Tommo So Dogon",
+    "isocodes": "dto",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.756,
+    "longitude": -3.28,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tomo1243",
+    "name": "Tomo Kan Dogon",
+    "isocodes": "dtm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 13.6331,
+    "longitude": -3.82228,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "tond1249",
+    "name": "Tondi Songway Kiini",
+    "isocodes": "tst",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.262989,
+    "longitude": -2.816163,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "toro1252",
+    "name": "Toro So Dogon",
+    "isocodes": "dts",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.40749,
+    "longitude": -3.10006,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "toro1253",
+    "name": "Toro Tegu Dogon",
+    "isocodes": "dtt",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 15.0644,
+    "longitude": -2.22427,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "xaas1235",
+    "name": "Xaasongaxango",
+    "isocodes": "kao",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.1,
+    "longitude": -10.95,
+    "country_code": "ml"
+  },
+  {
+    "glottocode": "yand1257",
+    "name": "Yanda Dom Dogon",
+    "isocodes": "dym",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": 14.63,
+    "longitude": -3.15,
+    "country_code": "ml"
+  }
+]

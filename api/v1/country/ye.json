@@ -1,0 +1,72 @@
+[
+  {
+    "glottocode": "abda1238",
+    "name": "'Abd Al-Kuri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.1959,
+    "longitude": 52.2282,
+    "country_code": "ye"
+  },
+  {
+    "glottocode": "cent2215",
+    "name": "Central Soqotri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.475,
+    "longitude": 53.788,
+    "country_code": "ye"
+  },
+  {
+    "glottocode": "nort3092",
+    "name": "North Central Soqotri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.649,
+    "longitude": 54.018,
+    "country_code": "ye"
+  },
+  {
+    "glottocode": "nort3090",
+    "name": "Northern Soqotri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.593,
+    "longitude": 53.837,
+    "country_code": "ye"
+  },
+  {
+    "glottocode": "nort3091",
+    "name": "Northwest Central Soqotri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.69,
+    "longitude": 53.49,
+    "country_code": "ye"
+  },
+  {
+    "glottocode": "sout3075",
+    "name": "Southern Soqotri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.34,
+    "longitude": 54.01,
+    "country_code": "ye"
+  },
+  {
+    "glottocode": "west2760",
+    "name": "Western Soqotri",
+    "isocodes": "",
+    "level": "dialect",
+    "macroarea": "Africa",
+    "latitude": 12.548,
+    "longitude": 53.384,
+    "country_code": "ye"
+  }
+]

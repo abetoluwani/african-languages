@@ -1,0 +1,172 @@
+[
+  {
+    "glottocode": "cent2300",
+    "name": "Central Ju",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.566667,
+    "longitude": 18.116667,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "mbal1255",
+    "name": "Central Wambo",
+    "isocodes": "lnb",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.578884,
+    "longitude": 16.027517,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "diri1252",
+    "name": "Diriku-Shambyu",
+    "isocodes": "diu",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.1681,
+    "longitude": 20.6678,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "fwee1238",
+    "name": "Fwe",
+    "isocodes": "fwe",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.72372,
+    "longitude": 24.43151,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "haio1238",
+    "name": "Hai//om-Akhoe",
+    "isocodes": "hgm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -19.7637,
+    "longitude": 17.0299,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "kuan1247",
+    "name": "Kuanyama",
+    "isocodes": "kua",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.7176,
+    "longitude": 16.58,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "kwam1251",
+    "name": "Kwambi",
+    "isocodes": "kwm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.0339,
+    "longitude": 15.7294,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "kwan1273",
+    "name": "Kwangali",
+    "isocodes": "kwn",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.9026,
+    "longitude": 19.256,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "nama1264",
+    "name": "Nama (Namibia)",
+    "isocodes": "naq",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -25.0747,
+    "longitude": 17.9767,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "nami1249",
+    "name": "Namibian Sign Language",
+    "isocodes": "nbs",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -22.6,
+    "longitude": 17.048,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "ndon1254",
+    "name": "Ndonga",
+    "isocodes": "ndo",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.22,
+    "longitude": 17.35,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "ngan1300",
+    "name": "Ngandyera",
+    "isocodes": "nne",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.91859,
+    "longitude": 15.0909,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "kung1261",
+    "name": "North-Central Ju",
+    "isocodes": "knw",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -21.92,
+    "longitude": 18.0,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "vase1234",
+    "name": "Northern Ju",
+    "isocodes": "vaj",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -18.2675,
+    "longitude": 18.1864,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "nyen1257",
+    "name": "Nyengo",
+    "isocodes": "nye",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.2314,
+    "longitude": 22.4787,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "xooo1239",
+    "name": "West !Xoon",
+    "isocodes": "",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -23.59,
+    "longitude": 19.15,
+    "country_code": "na"
+  },
+  {
+    "glottocode": "zemb1238",
+    "name": "Zemba",
+    "isocodes": "dhm",
+    "level": "language",
+    "macroarea": "Africa",
+    "latitude": -17.2958,
+    "longitude": 13.4424,
+    "country_code": "na"
+  }
+]
